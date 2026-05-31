@@ -1,0 +1,1 @@
+# shd1p-estracccion-del-conocimiento
