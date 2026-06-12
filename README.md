@@ -15,7 +15,7 @@ Desarrollar un repositorio académico en GitHub que integre los procesos de limp
 ---
 
 ## Datasets Utilizados
-Dentro de la carpeta `Data/` se encuentran alojados los siguientes archivos de datos:
+Dentro de la carpeta `Dataset/` se encuentran alojados los siguientes archivos de datos:
 1. **Netflix.csv:** Contiene el registro de producciones, títulos, directores, países y métricas de la plataforma de streaming de Netflix.
 2. **Amazon.data:** Contiene el registro de series, películas, géneros y calificaciones de usuarios de la plataforma Amazon Prime Video.
 
